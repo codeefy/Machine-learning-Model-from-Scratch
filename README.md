@@ -14,3 +14,6 @@
 
 **SVM**
 
+**Random forest**
+**XGBoost**
+
